@@ -1,14 +1,29 @@
-name: Updater (WIP)
-
+name: Generate Site
 on:
-  schedule:
-    - cron: 0 0 * * 0
-
+  push:
+    branches:
+      - master
 jobs:
-  update:
-    runs-on: ubuntu-latest
+  build-deploy:
+    runs-on: ubuntu-18.04
     steps:
-      - uses: wowchemy/gh-action-updater@v1
+      - name: Check out source
+        uses: actions/checkout@v2
+        
+      - name: Setup hugo
+        uses: peaceiris/actions-hugo@v2
         with:
-          feed-url: https://wowchemy.com/blog/index.xml
-          readme-section: news
+          hugo-version: "latest" # 可以修改为你使用的 Hugo 版本
+          # extended: true  设置是否需要 extended 版本
+          
+      - name: Build
+        run: hugo --minify
+        
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.ACTION_ACCESS_TOKEN }} # 另外还支持 github_token 和 personal_token
+          external_repository: BZhang/BZhang.github.io # 修改为你的 GitHub Pages 仓库
+          publish_dir: ./public
+          keep_files: false
+          publish_branch: master
