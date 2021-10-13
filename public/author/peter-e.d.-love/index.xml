@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter E.D. Love | Bowen Zhang</title>
+    <link>https://bzhang666.github.io/author/peter-e.d.-love/</link>
+      <atom:link href="https://bzhang666.github.io/author/peter-e.d.-love/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter E.D. Love</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Bowen Zhang 2021</copyright><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bzhang666.github.io/media/icon_hu20b81aea9f45f337308cff4978cba546_69169_512x512_fill_lanczos_center_3.png</url>
+      <title>Peter E.D. Love</title>
+      <link>https://bzhang666.github.io/author/peter-e.d.-love/</link>
+    </image>
+    
+    <item>
+      <title>Convolutional neural networks: Computer vision-based workforce activity assessment in construction</title>
+      <link>https://bzhang666.github.io/publication/journal-article/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://bzhang666.github.io/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

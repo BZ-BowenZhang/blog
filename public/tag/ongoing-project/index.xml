@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ongoing Project | Bowen Zhang</title>
+    <link>https://bzhang666.github.io/tag/ongoing-project/</link>
+      <atom:link href="https://bzhang666.github.io/tag/ongoing-project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ongoing Project</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Bowen Zhang 2021</copyright><lastBuildDate>Sun, 10 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bzhang666.github.io/media/icon_hu20b81aea9f45f337308cff4978cba546_69169_512x512_fill_lanczos_center_3.png</url>
+      <title>Ongoing Project</title>
+      <link>https://bzhang666.github.io/tag/ongoing-project/</link>
+    </image>
+    
+    <item>
+      <title>PhD Research Project</title>
+      <link>https://bzhang666.github.io/project/phd-project/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://bzhang666.github.io/project/phd-project/</guid>
+      <description>&lt;p&gt;This research aims to answer the main research question, &lt;b&gt;&amp;ldquo;How can we use human mobility patterns to assess the urban spatial structure during the evolution progress from cities toward a super mega-city region?”&lt;/b&gt;
+&lt;br&gt;
+The overall research question is tackled through four more detailed research objectives as follows: &lt;br&gt;
+a. To examine the potential difference of human mobility pattern between intra-city trips and inter-city cities trips, defining a social indicator that can describe the difference. &lt;br&gt;
+b. To detect the implicit boundaries of emerging super mega-city regions by the social indicators based on the human mobility pattern, testing if the implicit boundaries match the administrative/planning boundaries. &lt;br&gt;
+c. To use human mobility data and the implicit boundary for analysing the urban spatial structure during the evolution of cities toward super mega-city regions. &lt;br&gt;
+d. To establish a simulation model to predict how the specific urban interventions and policy can influence the human mobility pattern and related social indicators, further affecting the urban spatial structure. &lt;br&gt;
+Research Methodology Step 1: Using spatial-temporal analysis for revealing the difference of mobility patterns between intra-city and inter-city travel behaviour. Step 2: Developing the spatial interaction models to fit the dynamic boundaries for simulating Shenzhen-Dongguan-Huizhou/GBA urban integration scenarios. Step 3: Purposing a new quantitative analytic framework for measuring the spatial structure of the mega-city region by human mobility pattern and implicit boundary. Step 4: Establishing a regression model to understand the location choice and movement pattern for different social groups. Step 5: Establishing a simulation model by integrating all of the sub-model above, predicting how the specific urban interventions and policy can influence the urban spatial structure by affecting the human mobility pattern.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SIMITRI Project</title>
+      <link>https://bzhang666.github.io/project/simitri/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://bzhang666.github.io/project/simitri/</guid>
+      <description>&lt;p&gt;The research project SIMETRI (SustaInable Mobility and Equality in mega-ciTy RegIons: patterns, mechanisms and governance) brings together researchers from University College London, Birkbeck University of London, King’s College London, Vrije Universiteit Amsterdam, Shenzhen University, Shenzhen Institute of Research and Innovation, The University of Hong Kong, and Sun Yat-sen University.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;SIMETRI will develop a world-class science platform relevant to political decision-makers responsible for housing, transport, employment and urban development in the world’s biggest mega-city region, the Pearl River Delta Greater Bay Area. The platform integrates work on inequality indicators and predicting future land use and transport developed in western Europe in London and the Randstad with related work in Shenzhen and Guangzhou, producing a system that will use state-of-the-art simulation models, big data from routine transport, and new ways of using information technology for participatory governance. 
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Duration and funding&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Simetri runs fron March 2019 to March 2022, and is funded by the NSFC JPI Urban Europe programme.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qili Gao | Bowen Zhang</title>
+    <link>https://bzhang666.github.io/author/qili-gao/</link>
+      <atom:link href="https://bzhang666.github.io/author/qili-gao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qili Gao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Bowen Zhang 2021</copyright><lastBuildDate>Thu, 07 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bzhang666.github.io/media/icon_hu20b81aea9f45f337308cff4978cba546_69169_512x512_fill_lanczos_center_3.png</url>
+      <title>Qili Gao</title>
+      <link>https://bzhang666.github.io/author/qili-gao/</link>
+    </image>
+    
+    <item>
+      <title>A Novel Regionalisation Algorithm for Redrawing Cities’ Functional Boundary within Mega-city Region (working paper)</title>
+      <link>https://bzhang666.github.io/publication/preprint/</link>
+      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://bzhang666.github.io/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
