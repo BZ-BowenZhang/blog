@@ -6,7 +6,7 @@ title: Bowen Zhang
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: PhD Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
